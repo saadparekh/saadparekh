@@ -15,8 +15,7 @@ I'm a passionate **AI & Software Development Enthusiast** and a Computer Science
 
 ## 🏆 Featured Projects  
 
-- 🌍 **Environmental Impact Analyzer (EIA)**  
-  [EIA_FullStack_Project](https://github.com/saadparekh/Environment-Effect-Analyzer)  
+- [🌍 **Environmental Impact Analyzer (EIA)**](https://github.com/saadparekh/Environment-Effect-Analyzer)  
   Full-stack system for carbon footprint analysis with Flask backend, ML models, and interactive dashboard.  
 
 - [🤖 **AI Fake Job Detector**](https://github.com/saadparekh/ai_fake-job-detector)  
