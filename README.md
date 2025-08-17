@@ -1,50 +1,62 @@
-<h1 align="center">Hi 👋, I'm Saad Sohail</h1>
-<h3 align="center">Java | Python | DBMS | AI Enthusiast | Student at UIT University</h3>
+# Hi there, I'm Saad Sohail! 👋  
+I'm a passionate **AI & Software Development Enthusiast** and a Computer Science student at **UIT University**. Welcome to my GitHub profile! 🚀  
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Student at **UIT University**, passionate about **software development** and **intelligent systems**.  
-- 💻 Skilled in **Java**, **Python**, and building real-life applications with **DBMS** & **AI models**.  
-- 📊 Interested in **Data Analysis** – exploring datasets and extracting insights with Python.  
-- 🎨 Creative side: basic **Graphic Designing** with Canva & Figma.  
-- 🚀 Love to build **management systems**, **mini-projects**, and automate real-world tasks.  
+## 🔧 About Me  
+- 🎓 Pursuing **Computer Science** with a focus on **Artificial Intelligence & Software Engineering**  
+- 💻 Skilled in **Java, Python, and Databases (MySQL/SQLite)**  
+- 🌱 Exploring **Machine Learning, React.js, and Data Analysis**  
+- 🧑‍💻 Freelance experience in **management systems** 
+- 🤝 Open to collaborating on impactful **AI/ML** and **Web Development** projects  
+- 💡 Passionate about solving real-world problems through intelligent systems  
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Java, Python  
-- **Machine Learning Models:** KNN, Naive Bayes, Decision Tree, Linear Regression  
-- **Databases:** MySQL, SQLite, File Handling  
-- **Web:** HTML, CSS, JavaScript (basics)  
-- **Tools:** Canva, Figma  
+## 🏆 Featured Projects  
+
+- 🌍 **Environmental Impact Analyzer (EIA)**  
+  [EIA_FullStack_Project](https://github.com/saadparekh/Environment-Effect-Analyzer)  
+  Full-stack system for carbon footprint analysis with Flask backend, ML models, and interactive dashboard.  
+
+- [🤖 **AI Fake Job Detector**](https://github.com/saadparekh/ai_fake-job-detector)  
+  ML-powered model to detect fraudulent job postings using text analysis & classification.
+  
+- [🎓 **University Complaint Management System**](https://github.com/saadparekh/university_complain_management_system)  
+  Flask + SQLite based platform for managing student complaints with admin & student dashboards.  
+
+- [🔍 **GitHub Profile Finder**](https://github.com/saadparekh/github-profile-finder)  
+  React.js app that uses GitHub API to search user profiles and display repos & followers.  
 
 ---
 
-## 📌 Projects
-- [🌍 Environment Effect Analyzer](https://github.com/saadparekh/Environment-Effect-Analyzer)  
-  Python & ML project to analyze product-level environmental impact and predict carbon footprint.  
+## 💻 Skills & Technologies  
 
-- [🎬 Cinema Ticket Booking System](https://github.com/saadparekh/ManagementSystemCinema)  
-  Java-based console project to manage movie listings and ticket bookings.  
+### 🚀 Languages  
+- Java, Python, JavaScript, SQL  
 
-- [💊 Medical Management System](https://github.com/saadparekh/Medical-Management-System)  
-  Console-based stock and billing system for medicines using Java.  
+### 🎨 Frontend  
+- HTML5, CSS3, JavaScript (Basics), React.js  
 
----
+### ⚙️ Backend & Databases  
+- Flask, Node.js, Express.js, MySQL, SQLite  
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadparekh&show_icons=true&theme=tokyonight" alt="stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadparekh&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadparekh&layout=compact&theme=tokyonight" />
-</p>
+### 🧠 AI & ML  
+- KNN, Naive Bayes, Decision Tree, Linear Regression, Pandas, NumPy, Scikit-Learn  
+
+### 🛠️ Tools  
+- Git, GitHub, Canva, Figma, VS Code  
 
 ---
 
-## 📫 Connect with Me
-- 💬 Ask me about: Java, Python, DBMS, File Handling, and basic AI models  
+## 📫 Contact Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saad-parekh-847a06292/)  
 - 📧 Email: **saadparekh3@gmail.com**  
-- 💼 LinkedIn:https://www.linkedin.com/in/saad-parekh-847a06292/
+- 🐙 [GitHub](https://github.com/saadparekh)  
+
+---
+
+## 🎉 Fun Fact  
+When I'm not coding, I enjoy **designing**, exploring **AI models**, and brainstorming innovative solutions for real-world problems.  
+
+⭐ Thanks for visiting! Feel free to explore my repos and star ⭐ the ones you find interesting. Let's build something amazing together! 🚀  
