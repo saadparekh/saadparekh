@@ -47,4 +47,4 @@
 ## 📫 Connect with Me
 - 💬 Ask me about: Java, Python, DBMS, File Handling, and basic AI models  
 - 📧 Email: **saadparekh3@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/saad-parekh-847a06292](https://www.linkedin.com/in/saad-parekh-847a06292/)  
+- 💼 LinkedIn:https://www.linkedin.com/in/saad-parekh-847a06292/
