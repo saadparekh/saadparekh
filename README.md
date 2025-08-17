@@ -38,7 +38,7 @@ I'm a passionate **AI & Software Development Enthusiast** and a Computer Science
 - HTML5, CSS3, JavaScript (Basics), React.js  
 
 ### ⚙️ Backend & Databases  
-- Flask, Node.js, Express.js, MySQL, SQLite  
+- Flask, MySQL, SQLite  
 
 ### 🧠 AI & ML  
 - KNN, Naive Bayes, Decision Tree, Linear Regression, Pandas, NumPy, Scikit-Learn  
@@ -50,7 +50,7 @@ I'm a passionate **AI & Software Development Enthusiast** and a Computer Science
 
 ## 📫 Contact Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/saad-parekh-847a06292/)  
-- 📧 Email: **saadparekh3@gmail.com**  
+- 📧 [Email](saadparekh3@gmail.com)  
 - 🐙 [GitHub](https://github.com/saadparekh)  
 
 ---
