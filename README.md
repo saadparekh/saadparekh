@@ -68,9 +68,10 @@ AI-powered sustainability system built using **Flask + Machine Learning** to hel
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/saad-parekh-847a06292)
-[Portfolio](https://saad-portfolio-theta.vercel.app)
-Email: [saadparekh3@gmail.com](mailto:saadparekh3@gmail.com)
+**LinkedIn:** https://www.linkedin.com/in/saad-parekh-847a06292
+**Portfolio:** https://saad-portfolio-theta.vercel.app
+**Email:** [saadparekh3@gmail.com](mailto:saadparekh3@gmail.com)
+
 
 ---
 
