@@ -1,46 +1,77 @@
-# Hi there, I'm Saad Sohail! 👋
+# Hi there, I'm Saad Parekh! 👋
 
-Welcome to my GitHub profile! I'm a passionate **AI & Software Development Enthusiast** and a Computer Science student at **UIT University**.  
+AI & Software Development Enthusiast | BS Computer Science @ UIT University
 
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing **Computer Science** with a focus on **AI & Software Engineering**  
-- 💻 Skilled in **Java, Python, SQL, and Databases (MySQL/SQLite)**  
-- 🌱 Currently exploring **Machine Learning, React.js, and Data Analysis**  
-- 💼 Experience building **management systems** and **web applications**  
-- 🤝 Open to collaborating on impactful **AI/ML** and **Web Development** projects  
-- 💡 Passionate about solving **real-world problems** through intelligent systems  
+
+* 💻 Skilled in **Java, Python, SQL, JavaScript**
+* 🌱 Learning **Machine Learning, React.js, Data Analysis**
+* 💼 Built **full-stack web apps & management systems**
+* 🤝 Open to **AI/ML & Web Dev collaborations**
 
 ---
 
 ## 🏆 Featured Projects
-- [**Environmental Impact Analyzer (EIA)**](https://github.com/saadparekh/Environment-Effect-Analyzer) – Full-stack carbon footprint analysis system with Flask backend, ML models, and interactive dashboard.  
-- [**AI Fake Job Detector**](https://github.com/saadparekh/ai_fake-job-detector) – Machine learning model to detect fraudulent job postings using text analysis & classification.  
-- [**University Complaint Management System**](https://github.com/saadparekh/university_complain_management_system) – Flask + SQLite app for student complaints with admin & student dashboards.  
-- [**Event Booking System**](https://github.com/saadparekh/event_booking_website) – Python Flask + MongoDB app for online event booking, including search, filtering, and admin panel management.  
-  - Live demo: [Click here](https://event-booking-website-1we5.onrender.com/)  
+
+### 🔹 Event Booking System
+
+🔗 https://github.com/saadparekh/event_booking_website
+🌐 https://event-booking-website-1we5.onrender.com/
+Full-stack **Flask + MongoDB** app with booking, search, filtering & admin panel
 
 ---
 
-## 💻 Skills & Technologies
-**Languages:** Java, Python, JavaScript, SQL  
-**Frontend:** HTML5, CSS3, React.js, Tailwind CSS  
-**Backend & Databases:** Flask, SQLite, MySQL, MongoDB  
-**AI & ML:** scikit-learn, pandas, NumPy  
-**Tools & Platforms:** Git, GitHub, VS Code, Figma, Render, Vercel  
+### 🔹 Mastek Innovation (Company's website)
+
+🔗 Frontend: [Github repo](https://github.com/saadparekh/mastek_frontend)
+🔗 Backend: [Github repo](https://github.com/saadparekh/2software_company)
+🌐 [Live link](https://onesoftware-company-1.onrender.com)
+Freelance project built with **React + Node.js**, featuring contact & career system
 
 ---
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/saad-parekh-847a06292/)  
-- [Portfolio](https://saad-portfolio-theta.vercel.app/)  
-- [Email](saadparekh3@gmail.com )
-- [GitHub](https://github.com/saadparekh)  
+### 🌍 EarthMate + Environmental Impact Analyzer (EIA)
+
+🔗 EarthMate Repo: (https://github.com/saadparekh/carbon_webapp)
+🔗 EIA Repo: https://github.com/saadparekh/Environment-Effect-Analyzer
+🌐 Live Demo: https://carbon-webapp-sigma.vercel.app
+
+AI-powered sustainability system built using **Flask + Machine Learning** to help users reduce carbon emissions and adopt eco-friendly habits.
+
+### ✨ Features
+
+* 🧠 AI Chatbot for environment-related queries
+* 📋 Personalized action plans based on lifestyle inputs
+* 📊 Carbon footprint analysis using ML models
+* 📱 Responsive web interface
+
+### 🚀 Future Scope
+
+* Merge both projects into a unified platform
+* Add **ML-based carbon footprint prediction**
+* Build **analytics dashboard & tracker system**
+
 
 ---
 
-## 🎉 Fun Fact
-When I'm not coding, I enjoy **designing**, exploring **AI models**, and brainstorming innovative solutions for real-world problems.  
+## 💻 Skills
 
-⭐ Thanks for visiting! Feel free to explore my repos, star the ones you find interesting, and let's build something amazing together! 🚀
+**Languages:** Java, Python, JavaScript, SQL
+**Frontend:** React, Tailwind, HTML, CSS
+**Backend:** Node.js, Flask
+**Databases:** MySQL, SQLite, MongoDB
+**AI/ML:** scikit-learn, pandas, NumPy
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/saad-parekh-847a06292)
+[Portfolio](https://saad-portfolio-theta.vercel.app)
+Email: [saadparekh3@gmail.com](mailto:saadparekh3@gmail.com)
+
+---
+
+⭐ *Explore my work and let's build something impactful!*
